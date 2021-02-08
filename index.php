@@ -20,3 +20,4 @@ echo "You favorite color is neither red, blue, nor green!";
 break;
 }
 echo date("Y/m/d/h:i:s");
+?>
