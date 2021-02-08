@@ -12,3 +12,6 @@ break;
 case 'blue':
 echo "You favorite color is blue!";
 break;
+case 'green':
+echo "You favorite color is green!";
+break;
