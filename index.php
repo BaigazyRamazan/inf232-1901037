@@ -6,3 +6,6 @@ echo "<br>";
 echo "<br>";
 $favcolor = "blue";
 switch ($favcolor) {
+case 'red':
+echo "You favorite color is red";
+break;
