@@ -15,3 +15,7 @@ break;
 case 'green':
 echo "You favorite color is green!";
 break;
+default:
+echo "You favorite color is neither red, blue, nor green!";
+break;
+}
